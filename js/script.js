@@ -10,6 +10,6 @@ function check()
 
         else
         {
-            alert("Em là người mà anh yêuuu!");
+            alert("Sai gòi bé ơi");
         }
     }
